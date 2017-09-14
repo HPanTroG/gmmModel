@@ -1,2 +1,4 @@
 # gmmModel
-Implementation of GMM Model using Octave
+Implementing GMM Model using Octave
+To run model 
+	- Run command "hungarian" from Command Window on Octave
